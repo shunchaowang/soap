@@ -1,5 +1,7 @@
 .project
 .settings
+build
+.gradle
 # Compiled class file
 *.class
 
